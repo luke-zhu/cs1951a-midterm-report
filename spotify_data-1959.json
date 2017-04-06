@@ -1,0 +1,4304 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
+    },
+    "followers": {
+      "href": null,
+      "total": 21802
+    },
+    "genres": [
+      "country",
+      "country christmas",
+      "country gospel",
+      "country rock",
+      "cowboy western",
+      "nashville sound",
+      "outlaw country",
+      "rock-and-roll",
+      "rockabilly",
+      "traditional country",
+      "western swing"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1bBZcz4jP7CoPlqpCFh4gz",
+    "id": "1bBZcz4jP7CoPlqpCFh4gz",
+    "images": [
+      {
+        "height": 794,
+        "url": "https://i.scdn.co/image/e30abba56c77e606432918a733a9c0b354be17c7",
+        "width": 543
+      },
+      {
+        "height": 292,
+        "url": "https://i.scdn.co/image/3b84f113f34a59405710324dba194d3d9821b7d2",
+        "width": 200
+      },
+      {
+        "height": 94,
+        "url": "https://i.scdn.co/image/d5d3749cc138c9106c12c6b84a86613d9ee28ce3",
+        "width": 64
+      }
+    ],
+    "name": "Johnny Horton",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:1bBZcz4jP7CoPlqpCFh4gz"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 59138
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "cabaret",
+      "christmas",
+      "easy listening",
+      "folk rock",
+      "jazz blues",
+      "jazz christmas",
+      "lounge",
+      "mellow gold",
+      "motown",
+      "rock-and-roll",
+      "rockabilly",
+      "swing",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0EodhzA6yW1bIdD5B4tcmJ",
+    "id": "0EodhzA6yW1bIdD5B4tcmJ",
+    "images": [
+      {
+        "height": 1032,
+        "url": "https://i.scdn.co/image/0c7db9a7f3d6fb468676eb5bbc0478fa37abea1b",
+        "width": 1000
+      },
+      {
+        "height": 660,
+        "url": "https://i.scdn.co/image/453e8981bd7bb51120926dfe97fce21e7767e4fc",
+        "width": 640
+      },
+      {
+        "height": 206,
+        "url": "https://i.scdn.co/image/b02788daa8d200605ce0db4236ad407a7f4e94ca",
+        "width": 200
+      },
+      {
+        "height": 66,
+        "url": "https://i.scdn.co/image/f39a3fdf84b67a6c42d02563966980d143b3b859",
+        "width": 64
+      }
+    ],
+    "name": "Bobby Darin",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:0EodhzA6yW1bIdD5B4tcmJ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+    },
+    "followers": {
+      "href": null,
+      "total": 5905
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "northern soul",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3iOE5ItEv5xr9fmKi7GNh2",
+    "id": "3iOE5ItEv5xr9fmKi7GNh2",
+    "images": [
+      {
+        "height": 1224,
+        "url": "https://i.scdn.co/image/3add332d7ef9f0855a63ee080e42149a34c84084",
+        "width": 1000
+      },
+      {
+        "height": 784,
+        "url": "https://i.scdn.co/image/337ad0fdb9bb24fe1ad188a892b5404b87027ad5",
+        "width": 640
+      },
+      {
+        "height": 245,
+        "url": "https://i.scdn.co/image/5d7faf95c8ad0f9bcdfe1b6db79af5456158a7ad",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/772a79ffd59c647e543d3632c52f8def5eb6bb0e",
+        "width": 64
+      }
+    ],
+    "name": "Lloyd Price",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:3iOE5ItEv5xr9fmKi7GNh2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 7790
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5zNOI87gG4RttFmYAZWaxQ",
+    "id": "5zNOI87gG4RttFmYAZWaxQ",
+    "images": [
+      {
+        "height": 782,
+        "url": "https://i.scdn.co/image/098aeea8a8f7c3a4d5629f649e1966a9885eb5d5",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "url": "https://i.scdn.co/image/9bc3b736764d006029ec8e61ce3a143b57c790da",
+        "width": 640
+      },
+      {
+        "height": 156,
+        "url": "https://i.scdn.co/image/d153c4c93525cec5bdd6eaaecd015aa9c20034c5",
+        "width": 200
+      },
+      {
+        "height": 50,
+        "url": "https://i.scdn.co/image/2e6b0e450632ca2547280b79d61c9e6aa4f1c8cc",
+        "width": 64
+      }
+    ],
+    "name": "Frankie Avalon",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:5zNOI87gG4RttFmYAZWaxQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+    },
+    "followers": {
+      "href": null,
+      "total": 59327
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "canadian pop",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "mellow gold",
+      "rock-and-roll",
+      "rockabilly",
+      "soft rock",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7ceUfdWq2t5nbatS6ollHh",
+    "id": "7ceUfdWq2t5nbatS6ollHh",
+    "images": [
+      {
+        "height": 1100,
+        "url": "https://i.scdn.co/image/2cf68a5624e8a646d51760740d83be8a3361cb71",
+        "width": 1000
+      },
+      {
+        "height": 704,
+        "url": "https://i.scdn.co/image/5a571c35e1840766e3f15dabb42d86adda26da90",
+        "width": 640
+      },
+      {
+        "height": 220,
+        "url": "https://i.scdn.co/image/d9f7f5448bfe1492337d78c1791ab442f9b8b56a",
+        "width": 200
+      },
+      {
+        "height": 70,
+        "url": "https://i.scdn.co/image/5b3f6e1161dff6d711d8d1b0c9a802096aa5b87b",
+        "width": 64
+      }
+    ],
+    "name": "Paul Anka",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:7ceUfdWq2t5nbatS6ollHh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 59138
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "cabaret",
+      "christmas",
+      "easy listening",
+      "folk rock",
+      "jazz blues",
+      "jazz christmas",
+      "lounge",
+      "mellow gold",
+      "motown",
+      "rock-and-roll",
+      "rockabilly",
+      "swing",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0EodhzA6yW1bIdD5B4tcmJ",
+    "id": "0EodhzA6yW1bIdD5B4tcmJ",
+    "images": [
+      {
+        "height": 1032,
+        "url": "https://i.scdn.co/image/0c7db9a7f3d6fb468676eb5bbc0478fa37abea1b",
+        "width": 1000
+      },
+      {
+        "height": 660,
+        "url": "https://i.scdn.co/image/453e8981bd7bb51120926dfe97fce21e7767e4fc",
+        "width": 640
+      },
+      {
+        "height": 206,
+        "url": "https://i.scdn.co/image/b02788daa8d200605ce0db4236ad407a7f4e94ca",
+        "width": 200
+      },
+      {
+        "height": 66,
+        "url": "https://i.scdn.co/image/f39a3fdf84b67a6c42d02563966980d143b3b859",
+        "width": 64
+      }
+    ],
+    "name": "Bobby Darin",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:0EodhzA6yW1bIdD5B4tcmJ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
+    },
+    "followers": {
+      "href": null,
+      "total": 1390
+    },
+    "genres": [
+      "country gospel",
+      "cowboy western",
+      "nashville sound",
+      "traditional country",
+      "western swing"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6GDSMFwAQBfnrrZf981Yji",
+    "id": "6GDSMFwAQBfnrrZf981Yji",
+    "images": [
+      {
+        "height": 1126,
+        "url": "https://i.scdn.co/image/810c535e074d6344af3394b4f61378f37eb58036",
+        "width": 1000
+      },
+      {
+        "height": 720,
+        "url": "https://i.scdn.co/image/9762b33384f5586451ea46239b2794348d5d42d6",
+        "width": 640
+      },
+      {
+        "height": 225,
+        "url": "https://i.scdn.co/image/5219e97bb6126379a8a2d92212ed2566196fa090",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/f049ec8391f5b09cd4a996cf6da717dd227fe2c0",
+        "width": 64
+      }
+    ],
+    "name": "The Browns",
+    "popularity": 24,
+    "type": "artist",
+    "uri": "spotify:artist:6GDSMFwAQBfnrrZf981Yji"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+    },
+    "followers": {
+      "href": null,
+      "total": 4226
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "doo-wop",
+      "rock-and-roll"
+    ],
+    "href": "https://api.spotify.com/v1/artists/673J686eeEXMYJorgQ70lX",
+    "id": "673J686eeEXMYJorgQ70lX",
+    "images": [
+      {
+        "height": 1118,
+        "url": "https://i.scdn.co/image/0be8f8d00d21a9e7d7ba5bf414ce69b163a73bd8",
+        "width": 1000
+      },
+      {
+        "height": 715,
+        "url": "https://i.scdn.co/image/792afa9af1b0e2af99944d925e2803f3be9f634f",
+        "width": 640
+      },
+      {
+        "height": 224,
+        "url": "https://i.scdn.co/image/34ac4ec2066c7aca45c05b242b4c90aac0934aa8",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/6ed4a8cbbc321cc982b537becff9adb609a08040",
+        "width": 64
+      }
+    ],
+    "name": "The Fleetwoods",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:673J686eeEXMYJorgQ70lX"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+    },
+    "followers": {
+      "href": null,
+      "total": 1141
+    },
+    "genres": [
+      "doo-wop",
+      "jump blues",
+      "new orleans blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul blues"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7rETVFaF9VOFPmmzsY3kO6",
+    "id": "7rETVFaF9VOFPmmzsY3kO6",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/d2cf6e3844ba3f63f770666117e8e87f59a0b898",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/190cf0c71ce5bcc8602241772ad956e9acc0c789",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/930a104feb0122547ecd84cca97cb7372b5eb6c9",
+        "width": 64
+      }
+    ],
+    "name": "Wilbert Harrison",
+    "popularity": 30,
+    "type": "artist",
+    "uri": "spotify:artist:7rETVFaF9VOFPmmzsY3kO6"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+    },
+    "followers": {
+      "href": null,
+      "total": 4226
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "doo-wop",
+      "rock-and-roll"
+    ],
+    "href": "https://api.spotify.com/v1/artists/673J686eeEXMYJorgQ70lX",
+    "id": "673J686eeEXMYJorgQ70lX",
+    "images": [
+      {
+        "height": 1118,
+        "url": "https://i.scdn.co/image/0be8f8d00d21a9e7d7ba5bf414ce69b163a73bd8",
+        "width": 1000
+      },
+      {
+        "height": 715,
+        "url": "https://i.scdn.co/image/792afa9af1b0e2af99944d925e2803f3be9f634f",
+        "width": 640
+      },
+      {
+        "height": 224,
+        "url": "https://i.scdn.co/image/34ac4ec2066c7aca45c05b242b4c90aac0934aa8",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/6ed4a8cbbc321cc982b537becff9adb609a08040",
+        "width": 64
+      }
+    ],
+    "name": "The Fleetwoods",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:673J686eeEXMYJorgQ70lX"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+    },
+    "followers": {
+      "href": null,
+      "total": 15095
+    },
+    "genres": [
+      "lounge",
+      "rock-and-roll"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4hGjngc0tPOBwTgTPci3IK",
+    "id": "4hGjngc0tPOBwTgTPci3IK",
+    "images": [
+      {
+        "height": 1171,
+        "url": "https://i.scdn.co/image/7374f0753ad88ed74ed3dd82dbe700276241dd02",
+        "width": 1000
+      },
+      {
+        "height": 750,
+        "url": "https://i.scdn.co/image/87e147a19c458d80ece1ee8f81150b81189b77a9",
+        "width": 640
+      },
+      {
+        "height": 234,
+        "url": "https://i.scdn.co/image/42cfad0a3296050b46c143c93776504c520455bd",
+        "width": 200
+      },
+      {
+        "height": 75,
+        "url": "https://i.scdn.co/image/9928a12ae9ccd94c1f846186e2bcd77fa39725b2",
+        "width": 64
+      }
+    ],
+    "name": "Santo & Johnny",
+    "popularity": 46,
+    "type": "artist",
+    "uri": "spotify:artist:4hGjngc0tPOBwTgTPci3IK"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+    },
+    "followers": {
+      "href": null,
+      "total": 59327
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "canadian pop",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "mellow gold",
+      "rock-and-roll",
+      "rockabilly",
+      "soft rock",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7ceUfdWq2t5nbatS6ollHh",
+    "id": "7ceUfdWq2t5nbatS6ollHh",
+    "images": [
+      {
+        "height": 1100,
+        "url": "https://i.scdn.co/image/2cf68a5624e8a646d51760740d83be8a3361cb71",
+        "width": 1000
+      },
+      {
+        "height": 704,
+        "url": "https://i.scdn.co/image/5a571c35e1840766e3f15dabb42d86adda26da90",
+        "width": 640
+      },
+      {
+        "height": 220,
+        "url": "https://i.scdn.co/image/d9f7f5448bfe1492337d78c1791ab442f9b8b56a",
+        "width": 200
+      },
+      {
+        "height": 70,
+        "url": "https://i.scdn.co/image/5b3f6e1161dff6d711d8d1b0c9a802096aa5b87b",
+        "width": 64
+      }
+    ],
+    "name": "Paul Anka",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:7ceUfdWq2t5nbatS6ollHh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+    },
+    "followers": {
+      "href": null,
+      "total": 5905
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "northern soul",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3iOE5ItEv5xr9fmKi7GNh2",
+    "id": "3iOE5ItEv5xr9fmKi7GNh2",
+    "images": [
+      {
+        "height": 1224,
+        "url": "https://i.scdn.co/image/3add332d7ef9f0855a63ee080e42149a34c84084",
+        "width": 1000
+      },
+      {
+        "height": 784,
+        "url": "https://i.scdn.co/image/337ad0fdb9bb24fe1ad188a892b5404b87027ad5",
+        "width": 640
+      },
+      {
+        "height": 245,
+        "url": "https://i.scdn.co/image/5d7faf95c8ad0f9bcdfe1b6db79af5456158a7ad",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/772a79ffd59c647e543d3632c52f8def5eb6bb0e",
+        "width": 64
+      }
+    ],
+    "name": "Lloyd Price",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:3iOE5ItEv5xr9fmKi7GNh2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+    },
+    "followers": {
+      "href": null,
+      "total": 62705
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5Y9xEAGW4GwGJgbiI6W85P",
+    "id": "5Y9xEAGW4GwGJgbiI6W85P",
+    "images": [
+      {
+        "height": 1124,
+        "url": "https://i.scdn.co/image/c0797b7eeb72ffd9760fa5a026641d14b3fd547a",
+        "width": 1000
+      },
+      {
+        "height": 719,
+        "url": "https://i.scdn.co/image/bfa2d94ae1da800701ceb6fd4e2d4ed278ac1700",
+        "width": 640
+      },
+      {
+        "height": 225,
+        "url": "https://i.scdn.co/image/9e428b0f0a17c0d9ff108340f6f304919af7c435",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/47a1ce1e030d6f5487e988d7ab6899808fa6116a",
+        "width": 64
+      }
+    ],
+    "name": "Ritchie Valens",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:5Y9xEAGW4GwGJgbiI6W85P"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3lZh8hoNw1a0RV9hJbMZTs"
+    },
+    "followers": {
+      "href": null,
+      "total": 385
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3lZh8hoNw1a0RV9hJbMZTs",
+    "id": "3lZh8hoNw1a0RV9hJbMZTs",
+    "images": [
+      {
+        "height": 1273,
+        "url": "https://i.scdn.co/image/f4245517c05e713ebd98089492dbcbaa0d05edc0",
+        "width": 1000
+      },
+      {
+        "height": 815,
+        "url": "https://i.scdn.co/image/1074f788c76e8dc03c502051d7f517be05314773",
+        "width": 640
+      },
+      {
+        "height": 255,
+        "url": "https://i.scdn.co/image/90311dc8140bb885115dad91038ab8bcfb6ea251",
+        "width": 200
+      },
+      {
+        "height": 81,
+        "url": "https://i.scdn.co/image/d3ffabde5c874db48edfbff45517628393812730",
+        "width": 64
+      }
+    ],
+    "name": "Dodie Stevens",
+    "popularity": 20,
+    "type": "artist",
+    "uri": "spotify:artist:3lZh8hoNw1a0RV9hJbMZTs"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+    },
+    "followers": {
+      "href": null,
+      "total": 76247
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "christmas",
+      "doo-wop",
+      "lounge",
+      "mellow gold",
+      "motown",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul christmas"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy",
+    "id": "6KWcxMWVNVIYbdOQyJtsSy",
+    "images": [
+      {
+        "height": 857,
+        "url": "https://i.scdn.co/image/d8ecb1cc6c3b38504c45d3a87905ccf66f6466d3",
+        "width": 689
+      },
+      {
+        "height": 796,
+        "url": "https://i.scdn.co/image/e4f4bb87efc9cd4847e33d61e8e261e2996415a7",
+        "width": 640
+      },
+      {
+        "height": 249,
+        "url": "https://i.scdn.co/image/bf1868731dcfdf654a491591ccdd0df3c6749d2a",
+        "width": 200
+      },
+      {
+        "height": 80,
+        "url": "https://i.scdn.co/image/2f67a97cc103d16bdf6be6a09de0f98e904cffa1",
+        "width": 64
+      }
+    ],
+    "name": "The Platters",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:6KWcxMWVNVIYbdOQyJtsSy"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+    },
+    "followers": {
+      "href": null,
+      "total": 30555
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3QZKZBEmr54lAVI5XvmjnM",
+    "id": "3QZKZBEmr54lAVI5XvmjnM",
+    "images": [
+      {
+        "height": 1212,
+        "url": "https://i.scdn.co/image/2b811d478a88444e6ac9389b7ce03d2c4153ac91",
+        "width": 1000
+      },
+      {
+        "height": 776,
+        "url": "https://i.scdn.co/image/93049901e1e8c4851c1dec4d29972ea1c21b6ea9",
+        "width": 640
+      },
+      {
+        "height": 242,
+        "url": "https://i.scdn.co/image/29fb50efc19cce746d21e68b61cf7b5edb4ce685",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/f3c8b754976b07ccd21a5e0c2d36d7fee2cd5626",
+        "width": 64
+      }
+    ],
+    "name": "The Coasters",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:3QZKZBEmr54lAVI5XvmjnM"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+    },
+    "followers": {
+      "href": null,
+      "total": 5741
+    },
+    "genres": [
+      "adult standards",
+      "easy listening",
+      "exotica",
+      "lounge",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3D9J9nPNW1cBktx5apJq4V",
+    "id": "3D9J9nPNW1cBktx5apJq4V",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/92e315a9863c312c4f376f46aac582c3e5a06d4c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/5bf1f713ad86b34e9cec406c09e4414f1d18a6b6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/594fddb0e0946af23f0603414dda87f21411c6a7",
+        "width": 64
+      }
+    ],
+    "name": "Martin Denny",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:3D9J9nPNW1cBktx5apJq4V"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1oUGzH2pKjHd4fXklQ7Vt4"
+    },
+    "followers": {
+      "href": null,
+      "total": 71
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1oUGzH2pKjHd4fXklQ7Vt4",
+    "id": "1oUGzH2pKjHd4fXklQ7Vt4",
+    "images": [
+      {
+        "height": 1184,
+        "url": "https://i.scdn.co/image/705dd6a8b9b03095b291b3e9fda0bac40ae190c3",
+        "width": 1000
+      },
+      {
+        "height": 758,
+        "url": "https://i.scdn.co/image/2736fa9f1eba39851f71c1467e016a3a51311ec1",
+        "width": 640
+      },
+      {
+        "height": 237,
+        "url": "https://i.scdn.co/image/0612128315cd979731c70062807ad2f7a9ece297",
+        "width": 200
+      },
+      {
+        "height": 76,
+        "url": "https://i.scdn.co/image/b39e36be752cffc90f4ecbedd152971ad962742b",
+        "width": 64
+      }
+    ],
+    "name": "Carl Dobkins, Jr.",
+    "popularity": 11,
+    "type": "artist",
+    "uri": "spotify:artist:1oUGzH2pKjHd4fXklQ7Vt4"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+    },
+    "followers": {
+      "href": null,
+      "total": 74052
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "folk",
+      "folk rock",
+      "mellow gold",
+      "motown",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "singer-songwriter",
+      "soul",
+      "traditional country",
+      "traditional folk"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs",
+    "id": "4ACplpEqD6JIVgKrafauzs",
+    "images": [
+      {
+        "height": 1035,
+        "url": "https://i.scdn.co/image/143996e5147b6767719a60163488e342b3fc2efe",
+        "width": 1000
+      },
+      {
+        "height": 662,
+        "url": "https://i.scdn.co/image/ecd862317d93b07ff51218eee3fcb1e971ced621",
+        "width": 640
+      },
+      {
+        "height": 207,
+        "url": "https://i.scdn.co/image/8eee809edea1af0fc95620c95f8ecd6b7cdc6cc9",
+        "width": 200
+      },
+      {
+        "height": 66,
+        "url": "https://i.scdn.co/image/0d0e09e6e99dcbe60af88d03ff8f6ffe9bfe6d08",
+        "width": 64
+      }
+    ],
+    "name": "The Everly Brothers",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:4ACplpEqD6JIVgKrafauzs"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
+    },
+    "followers": {
+      "href": null,
+      "total": 285
+    },
+    "genres": [
+      "doo-wop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5EQjT95lePa71P9ZUA6adW",
+    "id": "5EQjT95lePa71P9ZUA6adW",
+    "images": [],
+    "name": "Phil Phillips & The Twilights",
+    "popularity": 28,
+    "type": "artist",
+    "uri": "spotify:artist:5EQjT95lePa71P9ZUA6adW"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY"
+    },
+    "followers": {
+      "href": null,
+      "total": 458
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7fGPj0sGEcZACQTUVbz3NY",
+    "id": "7fGPj0sGEcZACQTUVbz3NY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/8b43dea29f8408cc8bc01079c825bda3819f854c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/bd2bbf97e509979f2f7f6ad69dc3331d74c2a5a4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/edff6dc50b4cb057e0a0e663cd45ae8a7e42308c",
+        "width": 64
+      }
+    ],
+    "name": "Dave \"Baby\" Cortez",
+    "popularity": 19,
+    "type": "artist",
+    "uri": "spotify:artist:7fGPj0sGEcZACQTUVbz3NY"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2"
+    },
+    "followers": {
+      "href": null,
+      "total": 5905
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "northern soul",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3iOE5ItEv5xr9fmKi7GNh2",
+    "id": "3iOE5ItEv5xr9fmKi7GNh2",
+    "images": [
+      {
+        "height": 1224,
+        "url": "https://i.scdn.co/image/3add332d7ef9f0855a63ee080e42149a34c84084",
+        "width": 1000
+      },
+      {
+        "height": 784,
+        "url": "https://i.scdn.co/image/337ad0fdb9bb24fe1ad188a892b5404b87027ad5",
+        "width": 640
+      },
+      {
+        "height": 245,
+        "url": "https://i.scdn.co/image/5d7faf95c8ad0f9bcdfe1b6db79af5456158a7ad",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/772a79ffd59c647e543d3632c52f8def5eb6bb0e",
+        "width": 64
+      }
+    ],
+    "name": "Lloyd Price",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:3iOE5ItEv5xr9fmKi7GNh2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1OTR9mH8N5qvv4q0LZy3PI"
+    },
+    "followers": {
+      "href": null,
+      "total": 512
+    },
+    "genres": [
+      "doo-wop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1OTR9mH8N5qvv4q0LZy3PI",
+    "id": "1OTR9mH8N5qvv4q0LZy3PI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/e446dce91c914f8328456ed7ead85349fb81cff3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ded93ba5876c65819386c7ed1cc8ab6ba81b2780",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/dbff01a0c7b708faeedf8bd732b0e6253c8e5355",
+        "width": 64
+      }
+    ],
+    "name": "The Impalas",
+    "popularity": 17,
+    "type": "artist",
+    "uri": "spotify:artist:1OTR9mH8N5qvv4q0LZy3PI"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+    },
+    "followers": {
+      "href": null,
+      "total": 24168
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "christmas",
+      "doo-wop",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2loYllWFfoWpoxC5YrJKc4",
+    "id": "2loYllWFfoWpoxC5YrJKc4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/24c860613f4ac4da62c81462a8f0d768aabd9020",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/b8a66779cfb2e80589f10b91be55b099703a6008",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/15e64839d31050f7ed03fe7f45e3133cba7204f1",
+        "width": 64
+      }
+    ],
+    "name": "Dion & The Belmonts",
+    "popularity": 50,
+    "type": "artist",
+    "uri": "spotify:artist:2loYllWFfoWpoxC5YrJKc4"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U"
+    },
+    "followers": {
+      "href": null,
+      "total": 3881
+    },
+    "genres": [
+      "brill building pop",
+      "doo-wop",
+      "rock-and-roll"
+    ],
+    "href": "https://api.spotify.com/v1/artists/64vw6q9ZBTop3Tf2ol1x4U",
+    "id": "64vw6q9ZBTop3Tf2ol1x4U",
+    "images": [
+      {
+        "height": 1198,
+        "url": "https://i.scdn.co/image/65b5bd9a38c1375256bb50927bb247a2f59655a2",
+        "width": 1000
+      },
+      {
+        "height": 767,
+        "url": "https://i.scdn.co/image/03055618a51289a9220fee9396f3048843aff09a",
+        "width": 640
+      },
+      {
+        "height": 240,
+        "url": "https://i.scdn.co/image/960666e6dbf1c4629cb34f9421f5ba6b8519c86b",
+        "width": 200
+      },
+      {
+        "height": 77,
+        "url": "https://i.scdn.co/image/2975d30c0144af5e33049d977e5523bb4dcf2273",
+        "width": 64
+      }
+    ],
+    "name": "The Crests",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:64vw6q9ZBTop3Tf2ol1x4U"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+    },
+    "followers": {
+      "href": null,
+      "total": 8447
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jazz christmas",
+      "memphis soul",
+      "motown",
+      "northern soul",
+      "rock-and-roll",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2ttm3uT0N1RN7vwKv1pQgh",
+    "id": "2ttm3uT0N1RN7vwKv1pQgh",
+    "images": [
+      {
+        "height": 1054,
+        "url": "https://i.scdn.co/image/4ada684f556acdc024c09dac0e172d92a3f94a5a",
+        "width": 1000
+      },
+      {
+        "height": 674,
+        "url": "https://i.scdn.co/image/0ba78980bae232a2301b03fc2791466ff000ddec",
+        "width": 640
+      },
+      {
+        "height": 211,
+        "url": "https://i.scdn.co/image/a82ac4f95ed8d32d01655cddf07b86c098099dbf",
+        "width": 200
+      },
+      {
+        "height": 67,
+        "url": "https://i.scdn.co/image/28c83b42206497671e49099154ad9cb509c5b47c",
+        "width": 64
+      }
+    ],
+    "name": "Brook Benton",
+    "popularity": 41,
+    "type": "artist",
+    "uri": "spotify:artist:2ttm3uT0N1RN7vwKv1pQgh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+    },
+    "followers": {
+      "href": null,
+      "total": 36394
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3EY5DxGdy7x4GelivOjS2Q",
+    "id": "3EY5DxGdy7x4GelivOjS2Q",
+    "images": [
+      {
+        "height": 1196,
+        "url": "https://i.scdn.co/image/8bdcb1cc65a0ca1d54018e308bd2471e9c4820ce",
+        "width": 1000
+      },
+      {
+        "height": 765,
+        "url": "https://i.scdn.co/image/f21c10c96a065f438d1511fb493847c301f8ae9c",
+        "width": 640
+      },
+      {
+        "height": 239,
+        "url": "https://i.scdn.co/image/4a241bc89998f11920f10bd354374c4e8f3b90d3",
+        "width": 200
+      },
+      {
+        "height": 77,
+        "url": "https://i.scdn.co/image/bf2ff77d590d81b37682813dd8f7e3ac3928922f",
+        "width": 64
+      }
+    ],
+    "name": "Connie Francis",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:3EY5DxGdy7x4GelivOjS2Q"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+    },
+    "followers": {
+      "href": null,
+      "total": 68503
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "chicago soul",
+      "christmas",
+      "disco",
+      "doo-wop",
+      "jazz blues",
+      "jazz christmas",
+      "mellow gold",
+      "memphis soul",
+      "motown",
+      "quiet storm",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1FqqOl9itIUpXr4jZPIVoT",
+    "id": "1FqqOl9itIUpXr4jZPIVoT",
+    "images": [
+      {
+        "height": 707,
+        "url": "https://i.scdn.co/image/f56e2d32575607c88b3236b15dc681bfea7f75c8",
+        "width": 1000
+      },
+      {
+        "height": 452,
+        "url": "https://i.scdn.co/image/ac103f5e0fd45a673408e582d82791347f545742",
+        "width": 640
+      },
+      {
+        "height": 141,
+        "url": "https://i.scdn.co/image/9a47a5c84e07cd18364cbd43c9be75954803bfde",
+        "width": 200
+      },
+      {
+        "height": 45,
+        "url": "https://i.scdn.co/image/c2f0e8194c9e9da240273b1b53c96782137a7f0f",
+        "width": 64
+      }
+    ],
+    "name": "The Drifters",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:1FqqOl9itIUpXr4jZPIVoT"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+    },
+    "followers": {
+      "href": null,
+      "total": 1393607
+    },
+    "genres": [
+      "christmas",
+      "rock",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+    "id": "43ZHCT0cAZBISjO8DG9PnE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/160c941240375cecbdebfe61033e59783c5172ab",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/4e6bf82acdc3e175e06e902f5c1b32eaab2fe0c0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/e3e5fd6d8a70dc5f94438fbe880fb1a8844026c4",
+        "width": 160
+      }
+    ],
+    "name": "Elvis Presley",
+    "popularity": 73,
+    "type": "artist",
+    "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5sgpmIi6mJNrm3fs3swCa7"
+    },
+    "followers": {
+      "href": null,
+      "total": 2384
+    },
+    "genres": [
+      "brill building pop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5sgpmIi6mJNrm3fs3swCa7",
+    "id": "5sgpmIi6mJNrm3fs3swCa7",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/83590364b848b072d0b4abff7b6512f67e7ebcef",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/7808c26447e7593abd48277567d9f72a9df06b94",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/c9ef6c3cfb89131b1a81d1129a94e1de06b8702d",
+        "width": 64
+      }
+    ],
+    "name": "Johnny & The Hurricanes",
+    "popularity": 29,
+    "type": "artist",
+    "uri": "spotify:artist:5sgpmIi6mJNrm3fs3swCa7"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0NqxUSg57tX1o1WG7VU1Vp"
+    },
+    "followers": {
+      "href": null,
+      "total": 3336
+    },
+    "genres": [
+      "country",
+      "country gospel",
+      "cowboy western",
+      "nashville sound",
+      "outlaw country",
+      "traditional country",
+      "western swing"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0NqxUSg57tX1o1WG7VU1Vp",
+    "id": "0NqxUSg57tX1o1WG7VU1Vp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/7a63a0956d21d77796f00d5781ca8521723ea9d0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/10f526374ce095afb485dfa5595b9fc1c632108b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/5e86f3f51965d7c0cc1e570108f97512d7416956",
+        "width": 64
+      }
+    ],
+    "name": "Stonewall Jackson",
+    "popularity": 29,
+    "type": "artist",
+    "uri": "spotify:artist:0NqxUSg57tX1o1WG7VU1Vp"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7vRKbyzNu0HkFhOmt2ARgV"
+    },
+    "followers": {
+      "href": null,
+      "total": 110
+    },
+    "genres": [
+      "deep adult standards",
+      "deep motown"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7vRKbyzNu0HkFhOmt2ARgV",
+    "id": "7vRKbyzNu0HkFhOmt2ARgV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/5d6ca1ab1a5fb90088dfafe848cf2af195e455ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/1cea66bbdb7965e38fe0e1a478ca8b98463416e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/02d8f7ada8c37d12e5dff42bb905b56da4bdcba1",
+        "width": 64
+      }
+    ],
+    "name": "Sammy Turner",
+    "popularity": 6,
+    "type": "artist",
+    "uri": "spotify:artist:7vRKbyzNu0HkFhOmt2ARgV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+    },
+    "followers": {
+      "href": null,
+      "total": 1393607
+    },
+    "genres": [
+      "christmas",
+      "rock",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+    "id": "43ZHCT0cAZBISjO8DG9PnE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/160c941240375cecbdebfe61033e59783c5172ab",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/4e6bf82acdc3e175e06e902f5c1b32eaab2fe0c0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/e3e5fd6d8a70dc5f94438fbe880fb1a8844026c4",
+        "width": 160
+      }
+    ],
+    "name": "Elvis Presley",
+    "popularity": 73,
+    "type": "artist",
+    "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6KabWEVxiAJpnzZmYwZbpo"
+    },
+    "followers": {
+      "href": null,
+      "total": 164
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/6KabWEVxiAJpnzZmYwZbpo",
+    "id": "6KabWEVxiAJpnzZmYwZbpo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/448fc28588a907b2928811a15fbc19d7cb69829c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/abf2ad4fab5fbe32cbb59e9d7b3ee37abf6519c1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/334781093917035fe4090ad0ed8608625506104c",
+        "width": 64
+      }
+    ],
+    "name": "The Virtues",
+    "popularity": 8,
+    "type": "artist",
+    "uri": "spotify:artist:6KabWEVxiAJpnzZmYwZbpo"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5gI33iEWzSZqDZeVOwfJVi"
+    },
+    "followers": {
+      "href": null,
+      "total": 1787
+    },
+    "genres": [
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5gI33iEWzSZqDZeVOwfJVi",
+    "id": "5gI33iEWzSZqDZeVOwfJVi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ce777e163bb07571d17c54db2a4036edc628dad6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/283593daff5a80a55cc5d38dc711825b3f2d6fde",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/7106166e651260a0f0afad474752966fbd5132e1",
+        "width": 64
+      }
+    ],
+    "name": "Sandy Nelson",
+    "popularity": 25,
+    "type": "artist",
+    "uri": "spotify:artist:5gI33iEWzSZqDZeVOwfJVi"
+  },
+  null,
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6asabABf4EkunRexD2ECgd"
+    },
+    "followers": {
+      "href": null,
+      "total": 52
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/6asabABf4EkunRexD2ECgd",
+    "id": "6asabABf4EkunRexD2ECgd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/3efcb49349a3c676ec832f28749e4702d1564ada",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/c1921c111de66fc6eeee3b4a81e15de9aec8c923",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/92e419c112728356d4d84500eb98b3430fbca354",
+        "width": 64
+      }
+    ],
+    "name": "Thomas Wayne",
+    "popularity": 7,
+    "type": "artist",
+    "uri": "spotify:artist:6asabABf4EkunRexD2ECgd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+    },
+    "followers": {
+      "href": null,
+      "total": 36394
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3EY5DxGdy7x4GelivOjS2Q",
+    "id": "3EY5DxGdy7x4GelivOjS2Q",
+    "images": [
+      {
+        "height": 1196,
+        "url": "https://i.scdn.co/image/8bdcb1cc65a0ca1d54018e308bd2471e9c4820ce",
+        "width": 1000
+      },
+      {
+        "height": 765,
+        "url": "https://i.scdn.co/image/f21c10c96a065f438d1511fb493847c301f8ae9c",
+        "width": 640
+      },
+      {
+        "height": 239,
+        "url": "https://i.scdn.co/image/4a241bc89998f11920f10bd354374c4e8f3b90d3",
+        "width": 200
+      },
+      {
+        "height": 77,
+        "url": "https://i.scdn.co/image/bf2ff77d590d81b37682813dd8f7e3ac3928922f",
+        "width": 64
+      }
+    ],
+    "name": "Connie Francis",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:3EY5DxGdy7x4GelivOjS2Q"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1ffNa7yLg0ncUpBm5P03pm"
+    },
+    "followers": {
+      "href": null,
+      "total": 1914
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1ffNa7yLg0ncUpBm5P03pm",
+    "id": "1ffNa7yLg0ncUpBm5P03pm",
+    "images": [
+      {
+        "height": 1016,
+        "url": "https://i.scdn.co/image/ec936a284f6e72d64b5dc570d1d86473e8896aca",
+        "width": 1000
+      },
+      {
+        "height": 650,
+        "url": "https://i.scdn.co/image/beab5317852d79b4333f9c125480948ed2fa15d4",
+        "width": 640
+      },
+      {
+        "height": 203,
+        "url": "https://i.scdn.co/image/0a60682900b0adf339f85b646844a033810d00be",
+        "width": 200
+      },
+      {
+        "height": 65,
+        "url": "https://i.scdn.co/image/f1b21381fa4b62c87341457df5036e93e0c1ee69",
+        "width": 64
+      }
+    ],
+    "name": "Freddy Cannon",
+    "popularity": 28,
+    "type": "artist",
+    "uri": "spotify:artist:1ffNa7yLg0ncUpBm5P03pm"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+    },
+    "followers": {
+      "href": null,
+      "total": 10564
+    },
+    "genres": [
+      "bass trap",
+      "brostep",
+      "electronic trap",
+      "moombahton",
+      "tracestep"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5BBBDm18Y0TCRXZggaOnZG",
+    "id": "5BBBDm18Y0TCRXZggaOnZG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/882161a5634e6396a882f18f32c242d271a262c3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/cecec4251c6d9478cbd7f575f14d7607e7ce8a6a",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/f69dd0bfa23d0cac37dae7dca79a8acd7d719cd1",
+        "width": 160
+      }
+    ],
+    "name": "Fabian Mazur",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:5BBBDm18Y0TCRXZggaOnZG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+    },
+    "followers": {
+      "href": null,
+      "total": 38782
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "cowboy western",
+      "doo-wop",
+      "folk christmas",
+      "folk rock",
+      "jump blues",
+      "lounge",
+      "mellow gold",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/73sSFVlM6pkweLXE8qw1OS",
+    "id": "73sSFVlM6pkweLXE8qw1OS",
+    "images": [
+      {
+        "height": 1129,
+        "url": "https://i.scdn.co/image/99ee90438c46d52c9007866740f5504834d20f99",
+        "width": 1000
+      },
+      {
+        "height": 723,
+        "url": "https://i.scdn.co/image/3c0b0278e7cc5a8f062f7797993e099683b10e1e",
+        "width": 640
+      },
+      {
+        "height": 226,
+        "url": "https://i.scdn.co/image/53705a46b8496509b92c70268dabdc8a41899fb6",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/534d374e547c994f09b030f3921fca41f0e1750f",
+        "width": 64
+      }
+    ],
+    "name": "Ricky Nelson",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:73sSFVlM6pkweLXE8qw1OS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/63qOOnxbI8rVgpakjpnFBp"
+    },
+    "followers": {
+      "href": null,
+      "total": 3667
+    },
+    "genres": [
+      "adult standards",
+      "cabaret",
+      "christmas",
+      "jazz blues",
+      "jazz christmas",
+      "lounge",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/63qOOnxbI8rVgpakjpnFBp",
+    "id": "63qOOnxbI8rVgpakjpnFBp",
+    "images": [
+      {
+        "height": 1269,
+        "url": "https://i.scdn.co/image/ac8c3b6cfc24c1fa79c2e7389bf0395096f457f4",
+        "width": 1000
+      },
+      {
+        "height": 812,
+        "url": "https://i.scdn.co/image/ef77de2bb6053c7a4d0fa13949e2063a1e370af0",
+        "width": 640
+      },
+      {
+        "height": 254,
+        "url": "https://i.scdn.co/image/a0fcebaf7c6ad17d6ca0ee7423603d52705b9f7a",
+        "width": 200
+      },
+      {
+        "height": 81,
+        "url": "https://i.scdn.co/image/5614f0ce1ee603be346e8d4c3b77d58d302674d7",
+        "width": 64
+      }
+    ],
+    "name": "Della Reese",
+    "popularity": 31,
+    "type": "artist",
+    "uri": "spotify:artist:63qOOnxbI8rVgpakjpnFBp"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+    },
+    "followers": {
+      "href": null,
+      "total": 1393607
+    },
+    "genres": [
+      "christmas",
+      "rock",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+    "id": "43ZHCT0cAZBISjO8DG9PnE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/160c941240375cecbdebfe61033e59783c5172ab",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/4e6bf82acdc3e175e06e902f5c1b32eaab2fe0c0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/e3e5fd6d8a70dc5f94438fbe880fb1a8844026c4",
+        "width": 160
+      }
+    ],
+    "name": "Elvis Presley",
+    "popularity": 73,
+    "type": "artist",
+    "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+    },
+    "followers": {
+      "href": null,
+      "total": 68075
+    },
+    "genres": [
+      "adult standards",
+      "bebop",
+      "cabaret",
+      "christmas",
+      "cool jazz",
+      "jazz",
+      "jazz blues",
+      "jazz christmas",
+      "lounge",
+      "soul",
+      "soul blues",
+      "swing",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/32LHRiof0sa4taYew9i3Fa",
+    "id": "32LHRiof0sa4taYew9i3Fa",
+    "images": [
+      {
+        "height": 626,
+        "url": "https://i.scdn.co/image/219cf4ef5ee4065d4b431da35b9997aaa7293c8d",
+        "width": 546
+      },
+      {
+        "height": 229,
+        "url": "https://i.scdn.co/image/bcf433fe2b96294f7aecb89ee4bcb059d64ad4c8",
+        "width": 200
+      },
+      {
+        "height": 73,
+        "url": "https://i.scdn.co/image/21b67115008658ac46161c48591956b003f7a113",
+        "width": 64
+      }
+    ],
+    "name": "Dinah Washington",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:32LHRiof0sa4taYew9i3Fa"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4yALO4VjeIzGg9c73sLWGL"
+    },
+    "followers": {
+      "href": null,
+      "total": 28
+    },
+    "genres": [
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4yALO4VjeIzGg9c73sLWGL",
+    "id": "4yALO4VjeIzGg9c73sLWGL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/cf40b82cc5fe261630d8c90d5a9a0f1fbc791870",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/8fab16bd828cf5bd2c7229f5bf08357ee9c4f488",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/5db2a58fa685e523308fa2706313843870531660",
+        "width": 64
+      }
+    ],
+    "name": "Bill Parsons",
+    "popularity": 4,
+    "type": "artist",
+    "uri": "spotify:artist:4yALO4VjeIzGg9c73sLWGL"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3dE4AKlTQ3EW6yU6F9LuQT"
+    },
+    "followers": {
+      "href": null,
+      "total": 328
+    },
+    "genres": [
+      "country gospel",
+      "cowboy western",
+      "deep adult standards",
+      "nashville sound",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3dE4AKlTQ3EW6yU6F9LuQT",
+    "id": "3dE4AKlTQ3EW6yU6F9LuQT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/410faf3a636f7c36d3b66a40b23db58db81d7823",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/a3a3692fdc26b0da4668f5c248fa205cf4f04548",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/4990873afe5edb732c5cdb557027669f5b6562d5",
+        "width": 64
+      }
+    ],
+    "name": "Jerry Wallace",
+    "popularity": 16,
+    "type": "artist",
+    "uri": "spotify:artist:3dE4AKlTQ3EW6yU6F9LuQT"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW"
+    },
+    "followers": {
+      "href": null,
+      "total": 37040
+    },
+    "genres": [
+      "children's christmas",
+      "children's music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1SCWcYnoEh1978ycTDhZoW",
+    "id": "1SCWcYnoEh1978ycTDhZoW",
+    "images": [
+      {
+        "height": 1000,
+        "url": "https://i.scdn.co/image/75447d3644a78f052d46e33f9d9d214017b81ced",
+        "width": 1000
+      },
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/a4ba6ee9970d27e32c79550064ec1ced249b6f14",
+        "width": 640
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/eba2ac1f72bfb6a77da05e9be872a9d20b72d596",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/3a640ed28a4361546538e61ab114af41ab8f587e",
+        "width": 64
+      }
+    ],
+    "name": "Alvin & The Chipmunks",
+    "popularity": 45,
+    "type": "artist",
+    "uri": "spotify:artist:1SCWcYnoEh1978ycTDhZoW"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+    },
+    "followers": {
+      "href": null,
+      "total": 67327
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "cabaret",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "mellow gold",
+      "rock-and-roll",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4sj6D0zlMOl25nprDJBiU9",
+    "id": "4sj6D0zlMOl25nprDJBiU9",
+    "images": [
+      {
+        "height": 1534,
+        "url": "https://i.scdn.co/image/8cdf977c26fa6bdc9b0838ef31f6fd3a48037b2b",
+        "width": 1000
+      },
+      {
+        "height": 982,
+        "url": "https://i.scdn.co/image/facf97db150242c31edf10505b2e469ef024b5cd",
+        "width": 640
+      },
+      {
+        "height": 307,
+        "url": "https://i.scdn.co/image/c173d5383325e238db38d7fa7019100d36a2f58e",
+        "width": 200
+      },
+      {
+        "height": 98,
+        "url": "https://i.scdn.co/image/b7432b9ea46557b4e95a88e0d5b28283aa4c5287",
+        "width": 64
+      }
+    ],
+    "name": "Andy Williams",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+    },
+    "followers": {
+      "href": null,
+      "total": 540105
+    },
+    "genres": [
+      "adult standards",
+      "christmas",
+      "classic funk rock",
+      "classic rock",
+      "electric blues",
+      "jazz blues",
+      "jazz christmas",
+      "memphis soul",
+      "motown",
+      "piano blues",
+      "rock-and-roll",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1eYhYunlNJlDoQhtYBvPsi",
+    "id": "1eYhYunlNJlDoQhtYBvPsi",
+    "images": [
+      {
+        "height": 1239,
+        "url": "https://i.scdn.co/image/1c534e17efd05ee2cae4c566a74b66332e782200",
+        "width": 1000
+      },
+      {
+        "height": 793,
+        "url": "https://i.scdn.co/image/deba564c43eca6639e08c459d0f493fe5cb212a6",
+        "width": 640
+      },
+      {
+        "height": 248,
+        "url": "https://i.scdn.co/image/b632902d99552fbed2ede371b79604cfe64e6c4e",
+        "width": 200
+      },
+      {
+        "height": 79,
+        "url": "https://i.scdn.co/image/646a226d3078449768bda4a54ef2f78f942be915",
+        "width": 64
+      }
+    ],
+    "name": "Ray Charles",
+    "popularity": 65,
+    "type": "artist",
+    "uri": "spotify:artist:1eYhYunlNJlDoQhtYBvPsi"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+    },
+    "followers": {
+      "href": null,
+      "total": 91422
+    },
+    "genres": [
+      "adult standards",
+      "bebop",
+      "bossa nova",
+      "cabaret",
+      "christmas",
+      "cool jazz",
+      "jazz",
+      "jazz blues",
+      "jazz christmas",
+      "lounge",
+      "soul",
+      "stride",
+      "swing",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1bgyxtWjZwA5PQlDsvs9b8",
+    "id": "1bgyxtWjZwA5PQlDsvs9b8",
+    "images": [
+      {
+        "height": 1416,
+        "url": "https://i.scdn.co/image/c458380e0442aa957795d9df4dc574f9aa7de157",
+        "width": 1000
+      },
+      {
+        "height": 906,
+        "url": "https://i.scdn.co/image/187de7404da0dbaac3d4dcc0a76bda988185dd6a",
+        "width": 640
+      },
+      {
+        "height": 283,
+        "url": "https://i.scdn.co/image/99bf14fdfd52ff7eb77404f290027cdfc2eb8104",
+        "width": 200
+      },
+      {
+        "height": 91,
+        "url": "https://i.scdn.co/image/c738b4b592cc6a0e98c65dbc57b5c0f6ab8accdc",
+        "width": 64
+      }
+    ],
+    "name": "Sarah Vaughan",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:1bgyxtWjZwA5PQlDsvs9b8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+    },
+    "followers": {
+      "href": null,
+      "total": 9205
+    },
+    "genres": [
+      "adult standards",
+      "ballroom",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "opera",
+      "operatic pop",
+      "romantico"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0HJyVBZnjRKDT4STU3rGzU",
+    "id": "0HJyVBZnjRKDT4STU3rGzU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/de498ba65859c38a273cd821a96c0b1b3158dae8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/5bf00282a212572216f8c83567d69543f125eea7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ac0f94cac08b55e3fa06633a607161614343e6bb",
+        "width": 64
+      }
+    ],
+    "name": "Franck Pourcel",
+    "popularity": 45,
+    "type": "artist",
+    "uri": "spotify:artist:0HJyVBZnjRKDT4STU3rGzU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+    },
+    "followers": {
+      "href": null,
+      "total": 89
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/33OmSxFFBOPQL3AcoAFAmA",
+    "id": "33OmSxFFBOPQL3AcoAFAmA",
+    "images": [
+      {
+        "height": 634,
+        "url": "https://i.scdn.co/image/ac3530e8871d568ef0363790ebe4763b8148e3fb",
+        "width": 640
+      },
+      {
+        "height": 297,
+        "url": "https://i.scdn.co/image/2898d072f1b49f96692897600def5ec8525d5ae1",
+        "width": 300
+      },
+      {
+        "height": 63,
+        "url": "https://i.scdn.co/image/fe909c54158e6bb4af2142c9ccfcff98d710203f",
+        "width": 64
+      }
+    ],
+    "name": "Billy Grammer",
+    "popularity": 8,
+    "type": "artist",
+    "uri": "spotify:artist:33OmSxFFBOPQL3AcoAFAmA"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+    },
+    "followers": {
+      "href": null,
+      "total": 30555
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3QZKZBEmr54lAVI5XvmjnM",
+    "id": "3QZKZBEmr54lAVI5XvmjnM",
+    "images": [
+      {
+        "height": 1212,
+        "url": "https://i.scdn.co/image/2b811d478a88444e6ac9389b7ce03d2c4153ac91",
+        "width": 1000
+      },
+      {
+        "height": 776,
+        "url": "https://i.scdn.co/image/93049901e1e8c4851c1dec4d29972ea1c21b6ea9",
+        "width": 640
+      },
+      {
+        "height": 242,
+        "url": "https://i.scdn.co/image/29fb50efc19cce746d21e68b61cf7b5edb4ce685",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/f3c8b754976b07ccd21a5e0c2d36d7fee2cd5626",
+        "width": 64
+      }
+    ],
+    "name": "The Coasters",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:3QZKZBEmr54lAVI5XvmjnM"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+    },
+    "followers": {
+      "href": null,
+      "total": 10564
+    },
+    "genres": [
+      "bass trap",
+      "brostep",
+      "electronic trap",
+      "moombahton",
+      "tracestep"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5BBBDm18Y0TCRXZggaOnZG",
+    "id": "5BBBDm18Y0TCRXZggaOnZG",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/882161a5634e6396a882f18f32c242d271a262c3",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/cecec4251c6d9478cbd7f575f14d7607e7ce8a6a",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/f69dd0bfa23d0cac37dae7dca79a8acd7d719cd1",
+        "width": 160
+      }
+    ],
+    "name": "Fabian Mazur",
+    "popularity": 53,
+    "type": "artist",
+    "uri": "spotify:artist:5BBBDm18Y0TCRXZggaOnZG"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+    },
+    "followers": {
+      "href": null,
+      "total": 48913
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "classic funk rock",
+      "disco",
+      "jazz blues",
+      "jazz christmas",
+      "memphis soul",
+      "motown",
+      "northern soul",
+      "quiet storm",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4VnomLtKTm9Ahe1tZfmZju",
+    "id": "4VnomLtKTm9Ahe1tZfmZju",
+    "images": [
+      {
+        "height": 1299,
+        "url": "https://i.scdn.co/image/66cadd255a5f01b6496c0854bed1267888b312d1",
+        "width": 1000
+      },
+      {
+        "height": 831,
+        "url": "https://i.scdn.co/image/a312cfa2228c51867a4091f0b27d6faaf17e6751",
+        "width": 640
+      },
+      {
+        "height": 260,
+        "url": "https://i.scdn.co/image/154aec4836d8faa62e24f00fc013ec1f12d9fb18",
+        "width": 200
+      },
+      {
+        "height": 83,
+        "url": "https://i.scdn.co/image/e4e88bb84977a8a15e716d683bea7cfb762ce8f7",
+        "width": 64
+      }
+    ],
+    "name": "Jackie Wilson",
+    "popularity": 56,
+    "type": "artist",
+    "uri": "spotify:artist:4VnomLtKTm9Ahe1tZfmZju"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+    },
+    "followers": {
+      "href": null,
+      "total": 67327
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "cabaret",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "mellow gold",
+      "rock-and-roll",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4sj6D0zlMOl25nprDJBiU9",
+    "id": "4sj6D0zlMOl25nprDJBiU9",
+    "images": [
+      {
+        "height": 1534,
+        "url": "https://i.scdn.co/image/8cdf977c26fa6bdc9b0838ef31f6fd3a48037b2b",
+        "width": 1000
+      },
+      {
+        "height": 982,
+        "url": "https://i.scdn.co/image/facf97db150242c31edf10505b2e469ef024b5cd",
+        "width": 640
+      },
+      {
+        "height": 307,
+        "url": "https://i.scdn.co/image/c173d5383325e238db38d7fa7019100d36a2f58e",
+        "width": 200
+      },
+      {
+        "height": 98,
+        "url": "https://i.scdn.co/image/b7432b9ea46557b4e95a88e0d5b28283aa4c5287",
+        "width": 64
+      }
+    ],
+    "name": "Andy Williams",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:4sj6D0zlMOl25nprDJBiU9"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+    },
+    "followers": {
+      "href": null,
+      "total": 10868
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "jump blues",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1I5Cu7bqjkRg85idwYsD91",
+    "id": "1I5Cu7bqjkRg85idwYsD91",
+    "images": [
+      {
+        "height": 1344,
+        "url": "https://i.scdn.co/image/427b1b9c5b3c5f8d3341b65d491342528be05896",
+        "width": 1000
+      },
+      {
+        "height": 860,
+        "url": "https://i.scdn.co/image/f06e0e8c5dfb027e43a718c599d1999b10fa46c9",
+        "width": 640
+      },
+      {
+        "height": 269,
+        "url": "https://i.scdn.co/image/3c91f1fc58ff0218510879ed62bc1f759d134851",
+        "width": 200
+      },
+      {
+        "height": 86,
+        "url": "https://i.scdn.co/image/d8e358833b848f3e6cec38f29e136dbbe83b5fbc",
+        "width": 64
+      }
+    ],
+    "name": "Duane Eddy",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:1I5Cu7bqjkRg85idwYsD91"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 7790
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5zNOI87gG4RttFmYAZWaxQ",
+    "id": "5zNOI87gG4RttFmYAZWaxQ",
+    "images": [
+      {
+        "height": 782,
+        "url": "https://i.scdn.co/image/098aeea8a8f7c3a4d5629f649e1966a9885eb5d5",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "url": "https://i.scdn.co/image/9bc3b736764d006029ec8e61ce3a143b57c790da",
+        "width": 640
+      },
+      {
+        "height": 156,
+        "url": "https://i.scdn.co/image/d153c4c93525cec5bdd6eaaecd015aa9c20034c5",
+        "width": 200
+      },
+      {
+        "height": 50,
+        "url": "https://i.scdn.co/image/2e6b0e450632ca2547280b79d61c9e6aa4f1c8cc",
+        "width": 64
+      }
+    ],
+    "name": "Frankie Avalon",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:5zNOI87gG4RttFmYAZWaxQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/42s2jsRhlTFXFmzni2s0S0"
+    },
+    "followers": {
+      "href": null,
+      "total": 20
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/42s2jsRhlTFXFmzni2s0S0",
+    "id": "42s2jsRhlTFXFmzni2s0S0",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/438ae334815f6ba913c14d87ee085d1330e6a06c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/868dfc2c3d6c4f1be69cc7992f9e46a5de8dbeb9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/156cc75ecff6eed7ab7ab7f31aea99cf70c32493",
+        "width": 64
+      }
+    ],
+    "name": "Travis & Bob",
+    "popularity": 2,
+    "type": "artist",
+    "uri": "spotify:artist:42s2jsRhlTFXFmzni2s0S0"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+    },
+    "followers": {
+      "href": null,
+      "total": 36394
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "easy listening",
+      "lounge",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3EY5DxGdy7x4GelivOjS2Q",
+    "id": "3EY5DxGdy7x4GelivOjS2Q",
+    "images": [
+      {
+        "height": 1196,
+        "url": "https://i.scdn.co/image/8bdcb1cc65a0ca1d54018e308bd2471e9c4820ce",
+        "width": 1000
+      },
+      {
+        "height": 765,
+        "url": "https://i.scdn.co/image/f21c10c96a065f438d1511fb493847c301f8ae9c",
+        "width": 640
+      },
+      {
+        "height": 239,
+        "url": "https://i.scdn.co/image/4a241bc89998f11920f10bd354374c4e8f3b90d3",
+        "width": 200
+      },
+      {
+        "height": 77,
+        "url": "https://i.scdn.co/image/bf2ff77d590d81b37682813dd8f7e3ac3928922f",
+        "width": 64
+      }
+    ],
+    "name": "Connie Francis",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:3EY5DxGdy7x4GelivOjS2Q"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5aeWPt5NxjEZXy5DIXRyxm"
+    },
+    "followers": {
+      "href": null,
+      "total": 44
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5aeWPt5NxjEZXy5DIXRyxm",
+    "id": "5aeWPt5NxjEZXy5DIXRyxm",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/8934c41aea8597314e988c94509c174577d2bada",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/be1e5076d62ec0e7af20644abdc7ffb08dda5000",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/9fd1e34f7f842820738a8bd3383593ac230d08b6",
+        "width": 64
+      }
+    ],
+    "name": "The Bell Notes",
+    "popularity": 11,
+    "type": "artist",
+    "uri": "spotify:artist:5aeWPt5NxjEZXy5DIXRyxm"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+    },
+    "followers": {
+      "href": null,
+      "total": 5734
+    },
+    "genres": [
+      "blues",
+      "brill building pop",
+      "cabaret",
+      "chicago blues",
+      "chicago soul",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "louisiana blues",
+      "memphis blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "northern soul",
+      "piano blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0V6zo2mJw9FdwWLClKC9yw",
+    "id": "0V6zo2mJw9FdwWLClKC9yw",
+    "images": [
+      {
+        "height": 1296,
+        "url": "https://i.scdn.co/image/ba8e7309e7e6cdfd9a04dc59cc1f8fe1846da96b",
+        "width": 1000
+      },
+      {
+        "height": 830,
+        "url": "https://i.scdn.co/image/64d4c27b68d60a4a8484feb721e66b271baacc5a",
+        "width": 640
+      },
+      {
+        "height": 259,
+        "url": "https://i.scdn.co/image/68e74973f429a3ab9fb1731efcca5316ec878834",
+        "width": 200
+      },
+      {
+        "height": 83,
+        "url": "https://i.scdn.co/image/66f9a7f8ca77e56975a4322386dff1edb779d095",
+        "width": 64
+      }
+    ],
+    "name": "LaVern Baker",
+    "popularity": 38,
+    "type": "artist",
+    "uri": "spotify:artist:0V6zo2mJw9FdwWLClKC9yw"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+    },
+    "followers": {
+      "href": null,
+      "total": 76247
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "christmas",
+      "doo-wop",
+      "lounge",
+      "mellow gold",
+      "motown",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul christmas"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy",
+    "id": "6KWcxMWVNVIYbdOQyJtsSy",
+    "images": [
+      {
+        "height": 857,
+        "url": "https://i.scdn.co/image/d8ecb1cc6c3b38504c45d3a87905ccf66f6466d3",
+        "width": 689
+      },
+      {
+        "height": 796,
+        "url": "https://i.scdn.co/image/e4f4bb87efc9cd4847e33d61e8e261e2996415a7",
+        "width": 640
+      },
+      {
+        "height": 249,
+        "url": "https://i.scdn.co/image/bf1868731dcfdf654a491591ccdd0df3c6749d2a",
+        "width": 200
+      },
+      {
+        "height": 80,
+        "url": "https://i.scdn.co/image/2f67a97cc103d16bdf6be6a09de0f98e904cffa1",
+        "width": 64
+      }
+    ],
+    "name": "The Platters",
+    "popularity": 54,
+    "type": "artist",
+    "uri": "spotify:artist:6KWcxMWVNVIYbdOQyJtsSy"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+    },
+    "followers": {
+      "href": null,
+      "total": 3380
+    },
+    "genres": [
+      "brill building pop",
+      "chicago soul",
+      "doo-wop",
+      "rock-and-roll"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4JeG1IusHcsL2owYnsJ7wk",
+    "id": "4JeG1IusHcsL2owYnsJ7wk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/0357a73949d38aa1818300ed134c9764c2b5c552",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/01dc91214e60f9e3d3d6498e2f040cb791c207fc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/daa40f8d4dce4177c4d6197a0962615490fb9e60",
+        "width": 64
+      }
+    ],
+    "name": "The Skyliners",
+    "popularity": 37,
+    "type": "artist",
+    "uri": "spotify:artist:4JeG1IusHcsL2owYnsJ7wk"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5YRqxl4KfzKkFBMu408yv6"
+    },
+    "followers": {
+      "href": null,
+      "total": 1624
+    },
+    "genres": [
+      "big band",
+      "christmas",
+      "easy listening",
+      "exotica",
+      "jazz christmas",
+      "lounge",
+      "swing"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5YRqxl4KfzKkFBMu408yv6",
+    "id": "5YRqxl4KfzKkFBMu408yv6",
+    "images": [
+      {
+        "height": 428,
+        "url": "https://i.scdn.co/image/7a23cb830ee961e35ead781c55f02136680713ad",
+        "width": 322
+      },
+      {
+        "height": 266,
+        "url": "https://i.scdn.co/image/0fade765c0d1135f61add72daa72757a93f5734e",
+        "width": 200
+      },
+      {
+        "height": 85,
+        "url": "https://i.scdn.co/image/156e5ed8bbb47b7648c315a0b03294afe86ad71c",
+        "width": 64
+      }
+    ],
+    "name": "Ray Anthony",
+    "popularity": 25,
+    "type": "artist",
+    "uri": "spotify:artist:5YRqxl4KfzKkFBMu408yv6"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW"
+    },
+    "followers": {
+      "href": null,
+      "total": 37040
+    },
+    "genres": [
+      "children's christmas",
+      "children's music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1SCWcYnoEh1978ycTDhZoW",
+    "id": "1SCWcYnoEh1978ycTDhZoW",
+    "images": [
+      {
+        "height": 1000,
+        "url": "https://i.scdn.co/image/75447d3644a78f052d46e33f9d9d214017b81ced",
+        "width": 1000
+      },
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/a4ba6ee9970d27e32c79550064ec1ced249b6f14",
+        "width": 640
+      },
+      {
+        "height": 200,
+        "url": "https://i.scdn.co/image/eba2ac1f72bfb6a77da05e9be872a9d20b72d596",
+        "width": 200
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/3a640ed28a4361546538e61ab114af41ab8f587e",
+        "width": 64
+      }
+    ],
+    "name": "Alvin & The Chipmunks",
+    "popularity": 45,
+    "type": "artist",
+    "uri": "spotify:artist:1SCWcYnoEh1978ycTDhZoW"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+    },
+    "followers": {
+      "href": null,
+      "total": 63430
+    },
+    "genres": [
+      "adult standards",
+      "blues",
+      "brill building pop",
+      "chicago blues",
+      "christmas",
+      "delta blues",
+      "folk rock",
+      "jazz blues",
+      "jazz christmas",
+      "jump blues",
+      "louisiana blues",
+      "memphis blues",
+      "memphis soul",
+      "motown",
+      "nashville sound",
+      "new orleans blues",
+      "piano blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul",
+      "swamp pop",
+      "traditional blues",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/09C0xjtosNAIXP36wTnWxd",
+    "id": "09C0xjtosNAIXP36wTnWxd",
+    "images": [
+      {
+        "height": 1170,
+        "url": "https://i.scdn.co/image/795ae538a48341d36523c1644b0da31a542db7e5",
+        "width": 1000
+      },
+      {
+        "height": 749,
+        "url": "https://i.scdn.co/image/87c3cd1c4917dc6961fafa5b679fafc7c00cb1eb",
+        "width": 640
+      },
+      {
+        "height": 234,
+        "url": "https://i.scdn.co/image/e1ecb1edaf668afe7eb974bae90fd7bf00679108",
+        "width": 200
+      },
+      {
+        "height": 75,
+        "url": "https://i.scdn.co/image/aa497e48f8054c5a5838e9372bdceaa38237f8a3",
+        "width": 64
+      }
+    ],
+    "name": "Fats Domino",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:09C0xjtosNAIXP36wTnWxd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7xL33iiwCzXDSlGhVwg9K2"
+    },
+    "followers": {
+      "href": null,
+      "total": 359
+    },
+    "genres": [
+      "doo-wop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7xL33iiwCzXDSlGhVwg9K2",
+    "id": "7xL33iiwCzXDSlGhVwg9K2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/1e850f45383c3cd4cd2dc398dd2bf5f0f2d18527",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/4b6eda99c61b8c8a8a484560ab695c2ab4f86602",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/79dc1c5cba4fe6936b9c24fb6e8376305bbc9724",
+        "width": 64
+      }
+    ],
+    "name": "The Fiestas",
+    "popularity": 20,
+    "type": "artist",
+    "uri": "spotify:artist:7xL33iiwCzXDSlGhVwg9K2"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 7790
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5zNOI87gG4RttFmYAZWaxQ",
+    "id": "5zNOI87gG4RttFmYAZWaxQ",
+    "images": [
+      {
+        "height": 782,
+        "url": "https://i.scdn.co/image/098aeea8a8f7c3a4d5629f649e1966a9885eb5d5",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "url": "https://i.scdn.co/image/9bc3b736764d006029ec8e61ce3a143b57c790da",
+        "width": 640
+      },
+      {
+        "height": 156,
+        "url": "https://i.scdn.co/image/d153c4c93525cec5bdd6eaaecd015aa9c20034c5",
+        "width": 200
+      },
+      {
+        "height": 50,
+        "url": "https://i.scdn.co/image/2e6b0e450632ca2547280b79d61c9e6aa4f1c8cc",
+        "width": 64
+      }
+    ],
+    "name": "Frankie Avalon",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:5zNOI87gG4RttFmYAZWaxQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg"
+    },
+    "followers": {
+      "href": null,
+      "total": 214
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1X5ZSwlYraWjWqjkkhJjdg",
+    "id": "1X5ZSwlYraWjWqjkkhJjdg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/8a1d13c3b51ebd46d4a01043f2a1a5e5bb7f3483",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/6dc95135eca6d9737e1ea62be996ae6b0d507ea0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/b78cdf407a950137c4a269c4d3f75aba6c570f2c",
+        "width": 64
+      }
+    ],
+    "name": "Wink Martindale",
+    "popularity": 5,
+    "type": "artist",
+    "uri": "spotify:artist:1X5ZSwlYraWjWqjkkhJjdg"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4WL6MC4jDW7w7K9hfc4MVS"
+    },
+    "followers": {
+      "href": null,
+      "total": 3465
+    },
+    "genres": [
+      "brill building pop",
+      "chicago soul",
+      "doo-wop",
+      "jump blues",
+      "memphis blues",
+      "memphis soul",
+      "new orleans blues",
+      "northern soul",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4WL6MC4jDW7w7K9hfc4MVS",
+    "id": "4WL6MC4jDW7w7K9hfc4MVS",
+    "images": [
+      {
+        "height": 1205,
+        "url": "https://i.scdn.co/image/4f7e230b53f5bcf30967f3ffde9f7c8d027469eb",
+        "width": 1000
+      },
+      {
+        "height": 771,
+        "url": "https://i.scdn.co/image/81636c43daaa4a3a30cd9f023f356c15d4e17144",
+        "width": 640
+      },
+      {
+        "height": 241,
+        "url": "https://i.scdn.co/image/7bdec3084f5c52ec171ed6fda02512f0ad95b260",
+        "width": 200
+      },
+      {
+        "height": 77,
+        "url": "https://i.scdn.co/image/c8587cead65f68b8efba2adb1789103514dcec1d",
+        "width": 64
+      }
+    ],
+    "name": "Clyde McPhatter",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:4WL6MC4jDW7w7K9hfc4MVS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+    },
+    "followers": {
+      "href": null,
+      "total": 7655
+    },
+    "genres": [
+      "brill building pop",
+      "chicago soul",
+      "doo-wop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6iygtKnPG7TRvDaTYcLOd6",
+    "id": "6iygtKnPG7TRvDaTYcLOd6",
+    "images": [
+      {
+        "height": 710,
+        "url": "https://i.scdn.co/image/8e2e4a2fda4e5d3298a0ba3d6ec177df2e117017",
+        "width": 597
+      },
+      {
+        "height": 238,
+        "url": "https://i.scdn.co/image/417149badada6e4c61f958d38b8959ec22488a30",
+        "width": 200
+      },
+      {
+        "height": 76,
+        "url": "https://i.scdn.co/image/e582316eb76f4f99a27184edaa5266266c15a067",
+        "width": 64
+      }
+    ],
+    "name": "The Flamingos",
+    "popularity": 40,
+    "type": "artist",
+    "uri": "spotify:artist:6iygtKnPG7TRvDaTYcLOd6"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+    },
+    "followers": {
+      "href": null,
+      "total": 38782
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "cowboy western",
+      "doo-wop",
+      "folk christmas",
+      "folk rock",
+      "jump blues",
+      "lounge",
+      "mellow gold",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/73sSFVlM6pkweLXE8qw1OS",
+    "id": "73sSFVlM6pkweLXE8qw1OS",
+    "images": [
+      {
+        "height": 1129,
+        "url": "https://i.scdn.co/image/99ee90438c46d52c9007866740f5504834d20f99",
+        "width": 1000
+      },
+      {
+        "height": 723,
+        "url": "https://i.scdn.co/image/3c0b0278e7cc5a8f062f7797993e099683b10e1e",
+        "width": 640
+      },
+      {
+        "height": 226,
+        "url": "https://i.scdn.co/image/53705a46b8496509b92c70268dabdc8a41899fb6",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/534d374e547c994f09b030f3921fca41f0e1750f",
+        "width": 64
+      }
+    ],
+    "name": "Ricky Nelson",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:73sSFVlM6pkweLXE8qw1OS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0VPmURuvBGB1PER2fQBy6V"
+    },
+    "followers": {
+      "href": null,
+      "total": 48
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/0VPmURuvBGB1PER2fQBy6V",
+    "id": "0VPmURuvBGB1PER2fQBy6V",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/19a2fba5f5ec58af89cc36cb65dd650070cdeac1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/0a7c3b49c04dcc06afd4efe94d27662c17c3ac6e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/fa3de94f48cef49d77bf2a9b89473e6f0f146573",
+        "width": 64
+      }
+    ],
+    "name": "Chris Barber Jazz Band",
+    "popularity": 4,
+    "type": "artist",
+    "uri": "spotify:artist:0VPmURuvBGB1PER2fQBy6V"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1uHivHZ0fLfvwPL1UgkpMU"
+    },
+    "followers": {
+      "href": null,
+      "total": 1348
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1uHivHZ0fLfvwPL1UgkpMU",
+    "id": "1uHivHZ0fLfvwPL1UgkpMU",
+    "images": [
+      {
+        "height": 719,
+        "url": "https://i.scdn.co/image/567902a76de4b2e35fed2e55f16c4d8b2787b45e",
+        "width": 1000
+      },
+      {
+        "height": 460,
+        "url": "https://i.scdn.co/image/1616e00c79e1b337724e47722212b1bd66aec50b",
+        "width": 640
+      },
+      {
+        "height": 144,
+        "url": "https://i.scdn.co/image/7353dae87f1858c5dd0511a5cb694b95a951f93d",
+        "width": 200
+      },
+      {
+        "height": 46,
+        "url": "https://i.scdn.co/image/774619c9a9c50627deb3cc45310788279c5ad2b0",
+        "width": 64
+      }
+    ],
+    "name": "Annette Funicello",
+    "popularity": 24,
+    "type": "artist",
+    "uri": "spotify:artist:1uHivHZ0fLfvwPL1UgkpMU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 11005
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "christmas",
+      "cowboy western",
+      "folk",
+      "folk christmas",
+      "folk rock",
+      "nashville sound",
+      "traditional folk"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3qtcbDvdIgQOXkPbtRvBaQ",
+    "id": "3qtcbDvdIgQOXkPbtRvBaQ",
+    "images": [
+      {
+        "height": 661,
+        "url": "https://i.scdn.co/image/c77989e1d9a05cf54ac2d98737469d05183e560e",
+        "width": 1000
+      },
+      {
+        "height": 423,
+        "url": "https://i.scdn.co/image/fd99898c5805a42b96ef401e4686d2e467ce589e",
+        "width": 640
+      },
+      {
+        "height": 132,
+        "url": "https://i.scdn.co/image/eca1ff423abd9f1ce76ab0ce38d184e42146662c",
+        "width": 200
+      },
+      {
+        "height": 42,
+        "url": "https://i.scdn.co/image/86f22ecb6792bfdc1a9f515552ef07b8741e496a",
+        "width": 64
+      }
+    ],
+    "name": "The Kingston Trio",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:3qtcbDvdIgQOXkPbtRvBaQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+    },
+    "followers": {
+      "href": null,
+      "total": 38782
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "cowboy western",
+      "doo-wop",
+      "folk christmas",
+      "folk rock",
+      "jump blues",
+      "lounge",
+      "mellow gold",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/73sSFVlM6pkweLXE8qw1OS",
+    "id": "73sSFVlM6pkweLXE8qw1OS",
+    "images": [
+      {
+        "height": 1129,
+        "url": "https://i.scdn.co/image/99ee90438c46d52c9007866740f5504834d20f99",
+        "width": 1000
+      },
+      {
+        "height": 723,
+        "url": "https://i.scdn.co/image/3c0b0278e7cc5a8f062f7797993e099683b10e1e",
+        "width": 640
+      },
+      {
+        "height": 226,
+        "url": "https://i.scdn.co/image/53705a46b8496509b92c70268dabdc8a41899fb6",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/534d374e547c994f09b030f3921fca41f0e1750f",
+        "width": 64
+      }
+    ],
+    "name": "Ricky Nelson",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:73sSFVlM6pkweLXE8qw1OS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ucP0bNegd7Q4ewdOKIBfz"
+    },
+    "followers": {
+      "href": null,
+      "total": 1896
+    },
+    "genres": [
+      "brill building pop",
+      "christmas",
+      "cowboy western",
+      "doo-wop",
+      "jump blues",
+      "rock-and-roll",
+      "rockabilly",
+      "western swing"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4ucP0bNegd7Q4ewdOKIBfz",
+    "id": "4ucP0bNegd7Q4ewdOKIBfz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/9105f52cfba8e58051ecedf325e17ffc6ab3287d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/71a77ba1386c18e2da9dba44c888a368974f7a3f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/d98f9d24c2459044c717532fe5371063703690c1",
+        "width": 64
+      }
+    ],
+    "name": "Jack Scott",
+    "popularity": 26,
+    "type": "artist",
+    "uri": "spotify:artist:4ucP0bNegd7Q4ewdOKIBfz"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+    },
+    "followers": {
+      "href": null,
+      "total": 30555
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jump blues",
+      "memphis soul",
+      "motown",
+      "new orleans blues",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3QZKZBEmr54lAVI5XvmjnM",
+    "id": "3QZKZBEmr54lAVI5XvmjnM",
+    "images": [
+      {
+        "height": 1212,
+        "url": "https://i.scdn.co/image/2b811d478a88444e6ac9389b7ce03d2c4153ac91",
+        "width": 1000
+      },
+      {
+        "height": 776,
+        "url": "https://i.scdn.co/image/93049901e1e8c4851c1dec4d29972ea1c21b6ea9",
+        "width": 640
+      },
+      {
+        "height": 242,
+        "url": "https://i.scdn.co/image/29fb50efc19cce746d21e68b61cf7b5edb4ce685",
+        "width": 200
+      },
+      {
+        "height": 78,
+        "url": "https://i.scdn.co/image/f3c8b754976b07ccd21a5e0c2d36d7fee2cd5626",
+        "width": 64
+      }
+    ],
+    "name": "The Coasters",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:3QZKZBEmr54lAVI5XvmjnM"
+  },
+  null,
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 7790
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5zNOI87gG4RttFmYAZWaxQ",
+    "id": "5zNOI87gG4RttFmYAZWaxQ",
+    "images": [
+      {
+        "height": 782,
+        "url": "https://i.scdn.co/image/098aeea8a8f7c3a4d5629f649e1966a9885eb5d5",
+        "width": 1000
+      },
+      {
+        "height": 500,
+        "url": "https://i.scdn.co/image/9bc3b736764d006029ec8e61ce3a143b57c790da",
+        "width": 640
+      },
+      {
+        "height": 156,
+        "url": "https://i.scdn.co/image/d153c4c93525cec5bdd6eaaecd015aa9c20034c5",
+        "width": 200
+      },
+      {
+        "height": 50,
+        "url": "https://i.scdn.co/image/2e6b0e450632ca2547280b79d61c9e6aa4f1c8cc",
+        "width": 64
+      }
+    ],
+    "name": "Frankie Avalon",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:5zNOI87gG4RttFmYAZWaxQ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+    },
+    "followers": {
+      "href": null,
+      "total": 38782
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "cowboy western",
+      "doo-wop",
+      "folk christmas",
+      "folk rock",
+      "jump blues",
+      "lounge",
+      "mellow gold",
+      "merseybeat",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "traditional country"
+    ],
+    "href": "https://api.spotify.com/v1/artists/73sSFVlM6pkweLXE8qw1OS",
+    "id": "73sSFVlM6pkweLXE8qw1OS",
+    "images": [
+      {
+        "height": 1129,
+        "url": "https://i.scdn.co/image/99ee90438c46d52c9007866740f5504834d20f99",
+        "width": 1000
+      },
+      {
+        "height": 723,
+        "url": "https://i.scdn.co/image/3c0b0278e7cc5a8f062f7797993e099683b10e1e",
+        "width": 640
+      },
+      {
+        "height": 226,
+        "url": "https://i.scdn.co/image/53705a46b8496509b92c70268dabdc8a41899fb6",
+        "width": 200
+      },
+      {
+        "height": 72,
+        "url": "https://i.scdn.co/image/534d374e547c994f09b030f3921fca41f0e1750f",
+        "width": 64
+      }
+    ],
+    "name": "Ricky Nelson",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:73sSFVlM6pkweLXE8qw1OS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/52tfhEl2JsUCTTNr06lD09"
+    },
+    "followers": {
+      "href": null,
+      "total": 43
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/52tfhEl2JsUCTTNr06lD09",
+    "id": "52tfhEl2JsUCTTNr06lD09",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/460f547b2b55493838eb219b37a693eefe7e59ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/25929ab40cfcbfdbbc27ed88b111a3f9907fed8f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/84fc5a8cda50d3511eb4cb6ac8bc696165e9e8c2",
+        "width": 64
+      }
+    ],
+    "name": "Skip & Flip",
+    "popularity": 11,
+    "type": "artist",
+    "uri": "spotify:artist:52tfhEl2JsUCTTNr06lD09"
+  },
+  null,
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7CMO7nR8rRU5mqJWmSX2qD"
+    },
+    "followers": {
+      "href": null,
+      "total": 33
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7CMO7nR8rRU5mqJWmSX2qD",
+    "id": "7CMO7nR8rRU5mqJWmSX2qD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/a7b71ce4f489ae5abc4ed9d7ea9812ccfa60d95c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/094bdfd641001bd82305366f7a32105637e7e9d9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/e74de49e9e4e0c004756991dc407eb031ce7ddba",
+        "width": 64
+      }
+    ],
+    "name": "Reg Owen",
+    "popularity": 4,
+    "type": "artist",
+    "uri": "spotify:artist:7CMO7nR8rRU5mqJWmSX2qD"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+    },
+    "followers": {
+      "href": null,
+      "total": 8447
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "doo-wop",
+      "jazz blues",
+      "jazz christmas",
+      "memphis soul",
+      "motown",
+      "northern soul",
+      "rock-and-roll",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul",
+      "vocal jazz"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2ttm3uT0N1RN7vwKv1pQgh",
+    "id": "2ttm3uT0N1RN7vwKv1pQgh",
+    "images": [
+      {
+        "height": 1054,
+        "url": "https://i.scdn.co/image/4ada684f556acdc024c09dac0e172d92a3f94a5a",
+        "width": 1000
+      },
+      {
+        "height": 674,
+        "url": "https://i.scdn.co/image/0ba78980bae232a2301b03fc2791466ff000ddec",
+        "width": 640
+      },
+      {
+        "height": 211,
+        "url": "https://i.scdn.co/image/a82ac4f95ed8d32d01655cddf07b86c098099dbf",
+        "width": 200
+      },
+      {
+        "height": 67,
+        "url": "https://i.scdn.co/image/28c83b42206497671e49099154ad9cb509c5b47c",
+        "width": 64
+      }
+    ],
+    "name": "Brook Benton",
+    "popularity": 41,
+    "type": "artist",
+    "uri": "spotify:artist:2ttm3uT0N1RN7vwKv1pQgh"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV"
+    },
+    "followers": {
+      "href": null,
+      "total": 3323
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "christmas",
+      "cowboy western",
+      "deep adult standards",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1YAtBHWaWzZnkaoSFHGTBV",
+    "id": "1YAtBHWaWzZnkaoSFHGTBV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/b3ce5dbdd5fb9880d866840d4aac31cfa403ad0a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/4bdf25c9a7f63c60146ad9ecc766f786d5d0c343",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/fa638d1a298a43c2f862e8cae8932b475312f6a7",
+        "width": 64
+      }
+    ],
+    "name": "Guy Mitchell",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:1YAtBHWaWzZnkaoSFHGTBV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p"
+    },
+    "followers": {
+      "href": null,
+      "total": 718
+    },
+    "genres": [
+      "brill building pop",
+      "doo-wop",
+      "jump blues",
+      "new orleans blues",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7nkIxnGUsFXm89JX9ijD4p",
+    "id": "7nkIxnGUsFXm89JX9ijD4p",
+    "images": [
+      {
+        "height": 1230,
+        "url": "https://i.scdn.co/image/d73399e7bea41a6c2abc1632125c7d4d60179ecd",
+        "width": 1000
+      },
+      {
+        "height": 787,
+        "url": "https://i.scdn.co/image/d3736465506ea6742ca0598e1c533d2ee45f6786",
+        "width": 640
+      },
+      {
+        "height": 246,
+        "url": "https://i.scdn.co/image/4272c9555ec49a0555b2f8664941735c365be8ec",
+        "width": 200
+      },
+      {
+        "height": 79,
+        "url": "https://i.scdn.co/image/c6032a68c65b9ccb697448fe88d667015a667fac",
+        "width": 64
+      }
+    ],
+    "name": "Frankie Ford",
+    "popularity": 18,
+    "type": "artist",
+    "uri": "spotify:artist:7nkIxnGUsFXm89JX9ijD4p"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+    },
+    "followers": {
+      "href": null,
+      "total": 48913
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "chicago soul",
+      "christmas",
+      "classic funk rock",
+      "disco",
+      "jazz blues",
+      "jazz christmas",
+      "memphis soul",
+      "motown",
+      "northern soul",
+      "quiet storm",
+      "rock-and-roll",
+      "rockabilly",
+      "soul",
+      "soul blues",
+      "soul christmas",
+      "southern soul"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4VnomLtKTm9Ahe1tZfmZju",
+    "id": "4VnomLtKTm9Ahe1tZfmZju",
+    "images": [
+      {
+        "height": 1299,
+        "url": "https://i.scdn.co/image/66cadd255a5f01b6496c0854bed1267888b312d1",
+        "width": 1000
+      },
+      {
+        "height": 831,
+        "url": "https://i.scdn.co/image/a312cfa2228c51867a4091f0b27d6faaf17e6751",
+        "width": 640
+      },
+      {
+        "height": 260,
+        "url": "https://i.scdn.co/image/154aec4836d8faa62e24f00fc013ec1f12d9fb18",
+        "width": 200
+      },
+      {
+        "height": 83,
+        "url": "https://i.scdn.co/image/e4e88bb84977a8a15e716d683bea7cfb762ce8f7",
+        "width": 64
+      }
+    ],
+    "name": "Jackie Wilson",
+    "popularity": 56,
+    "type": "artist",
+    "uri": "spotify:artist:4VnomLtKTm9Ahe1tZfmZju"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7hUrFkKBD1PWTn55l22v90"
+    },
+    "followers": {
+      "href": null,
+      "total": 324
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7hUrFkKBD1PWTn55l22v90",
+    "id": "7hUrFkKBD1PWTn55l22v90",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/48c407aac032f2d455f3982299ab53a2bc3f3c8d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/69256397d4e28cebb3cb8b74a9a4ee54acd6cebd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/4635565887df5b116a5639175a343ea9dd5ffa00",
+        "width": 64
+      }
+    ],
+    "name": "The Falcons",
+    "popularity": 24,
+    "type": "artist",
+    "uri": "spotify:artist:7hUrFkKBD1PWTn55l22v90"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6"
+    },
+    "followers": {
+      "href": null,
+      "total": 4121
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "doo-wop",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4hJTgr1adnhIkhmD9jLzd6",
+    "id": "4hJTgr1adnhIkhmD9jLzd6",
+    "images": [
+      {
+        "height": 960,
+        "url": "https://i.scdn.co/image/02607acb894a4c9bb4fe3cf7e0a7b3d2b95e2401",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/b4bfc11a09a77f8ef66181aafa6ebbe241b0c1f1",
+        "width": 200
+      },
+      {
+        "height": 96,
+        "url": "https://i.scdn.co/image/0b013aebcc200226e8ee648ae438f7c3cb9e23eb",
+        "width": 64
+      }
+    ],
+    "name": "Bobby Rydell",
+    "popularity": 33,
+    "type": "artist",
+    "uri": "spotify:artist:4hJTgr1adnhIkhmD9jLzd6"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+    },
+    "followers": {
+      "href": null,
+      "total": 1393607
+    },
+    "genres": [
+      "christmas",
+      "rock",
+      "rock-and-roll",
+      "rockabilly"
+    ],
+    "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+    "id": "43ZHCT0cAZBISjO8DG9PnE",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/160c941240375cecbdebfe61033e59783c5172ab",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/4e6bf82acdc3e175e06e902f5c1b32eaab2fe0c0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/e3e5fd6d8a70dc5f94438fbe880fb1a8844026c4",
+        "width": 160
+      }
+    ],
+    "name": "Elvis Presley",
+    "popularity": 73,
+    "type": "artist",
+    "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6ouLM9uXt774BmPfmTzgX8"
+    },
+    "followers": {
+      "href": null,
+      "total": 321
+    },
+    "genres": [
+      "classic schlager",
+      "croatian pop",
+      "schlager"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6ouLM9uXt774BmPfmTzgX8",
+    "id": "6ouLM9uXt774BmPfmTzgX8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/df5378cbb09f1f84c939fbbff799cc502879e392",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/e559278f2ad9259e968c837a83924c82acf9aa09",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/f8f671367b1f195198b698045be08e211b76c15b",
+        "width": 64
+      }
+    ],
+    "name": "Ivo Robic",
+    "popularity": 19,
+    "type": "artist",
+    "uri": "spotify:artist:6ouLM9uXt774BmPfmTzgX8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
+    },
+    "followers": {
+      "href": null,
+      "total": 6765
+    },
+    "genres": [
+      "brill building pop",
+      "bubblegum pop",
+      "classic garage rock",
+      "doo-wop",
+      "folk rock",
+      "merseybeat",
+      "rock-and-roll",
+      "rockabilly",
+      "surf music"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0pqGj6vO9YHsXuZmaJaP2Y",
+    "id": "0pqGj6vO9YHsXuZmaJaP2Y",
+    "images": [
+      {
+        "height": 1075,
+        "url": "https://i.scdn.co/image/d942ea459d3ec957eaf3ddcb427fa33b6dd7a337",
+        "width": 1000
+      },
+      {
+        "height": 688,
+        "url": "https://i.scdn.co/image/e45ee116a4636769b3566d7c7193375b867be7cb",
+        "width": 640
+      },
+      {
+        "height": 215,
+        "url": "https://i.scdn.co/image/00f3baa71e30e8daef366a4de200bfe7052dd7eb",
+        "width": 200
+      },
+      {
+        "height": 69,
+        "url": "https://i.scdn.co/image/ae65363438504cf4a3690b99429e2384cfb4777f",
+        "width": 64
+      }
+    ],
+    "name": "Jan & Dean",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:0pqGj6vO9YHsXuZmaJaP2Y"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+    },
+    "followers": {
+      "href": null,
+      "total": 74052
+    },
+    "genres": [
+      "adult standards",
+      "brill building pop",
+      "bubblegum pop",
+      "christmas",
+      "folk",
+      "folk rock",
+      "mellow gold",
+      "motown",
+      "nashville sound",
+      "rock-and-roll",
+      "rockabilly",
+      "singer-songwriter",
+      "soul",
+      "traditional country",
+      "traditional folk"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs",
+    "id": "4ACplpEqD6JIVgKrafauzs",
+    "images": [
+      {
+        "height": 1035,
+        "url": "https://i.scdn.co/image/143996e5147b6767719a60163488e342b3fc2efe",
+        "width": 1000
+      },
+      {
+        "height": 662,
+        "url": "https://i.scdn.co/image/ecd862317d93b07ff51218eee3fcb1e971ced621",
+        "width": 640
+      },
+      {
+        "height": 207,
+        "url": "https://i.scdn.co/image/8eee809edea1af0fc95620c95f8ecd6b7cdc6cc9",
+        "width": 200
+      },
+      {
+        "height": 66,
+        "url": "https://i.scdn.co/image/0d0e09e6e99dcbe60af88d03ff8f6ffe9bfe6d08",
+        "width": 64
+      }
+    ],
+    "name": "The Everly Brothers",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:4ACplpEqD6JIVgKrafauzs"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2duo4NJtUrLaI38trK0hht"
+    },
+    "followers": {
+      "href": null,
+      "total": 32713
+    },
+    "genres": [
+      "christian christmas",
+      "lds"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2duo4NJtUrLaI38trK0hht",
+    "id": "2duo4NJtUrLaI38trK0hht",
+    "images": [
+      {
+        "height": 700,
+        "url": "https://i.scdn.co/image/875fdd9c245529c25e7587932bf498ee6d41697f",
+        "width": 1000
+      },
+      {
+        "height": 448,
+        "url": "https://i.scdn.co/image/9eddb75f14ab78bccf1843bce83180e50eb6ba1c",
+        "width": 640
+      },
+      {
+        "height": 140,
+        "url": "https://i.scdn.co/image/308072571da298614b3ffd7bfdad01b61342364c",
+        "width": 200
+      },
+      {
+        "height": 45,
+        "url": "https://i.scdn.co/image/2e68a3985fb8704a25a2615d49478d02108117ed",
+        "width": 64
+      }
+    ],
+    "name": "Mormon Tabernacle Choir",
+    "popularity": 42,
+    "type": "artist",
+    "uri": "spotify:artist:2duo4NJtUrLaI38trK0hht"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/635NhD8wQskmUJhO2Lidhb"
+    },
+    "followers": {
+      "href": null,
+      "total": 149
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/635NhD8wQskmUJhO2Lidhb",
+    "id": "635NhD8wQskmUJhO2Lidhb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/38870b23f1b3aa9d4e742f5c52bd48ecc1d66683",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/57a3a91114342caafce190d53129dbda62c9c71d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/27f0de1f64019fe3cac8a95b25b197590ca5f85a",
+        "width": 64
+      }
+    ],
+    "name": "Preston Epps",
+    "popularity": 12,
+    "type": "artist",
+    "uri": "spotify:artist:635NhD8wQskmUJhO2Lidhb"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4hGOBEZol2IU38LFZluW7K"
+    },
+    "followers": {
+      "href": null,
+      "total": 34
+    },
+    "genres": [
+      "deep adult standards"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4hGOBEZol2IU38LFZluW7K",
+    "id": "4hGOBEZol2IU38LFZluW7K",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/d3804e76ef26ad8c8e20ee111dfab5b9be3c36aa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/bc41797d06696bc33c2c30ecb7ab90a9dfd44db6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/02d98d81b8096496371d1871df4420947c2b21ba",
+        "width": 64
+      }
+    ],
+    "name": "Ernie Fields",
+    "popularity": 4,
+    "type": "artist",
+    "uri": "spotify:artist:4hGOBEZol2IU38LFZluW7K"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1VCjlBPsXgs5YMMFDWw6nA"
+    },
+    "followers": {
+      "href": null,
+      "total": 310
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1VCjlBPsXgs5YMMFDWw6nA",
+    "id": "1VCjlBPsXgs5YMMFDWw6nA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/b2c9930039fdd3c3e4ae39589e13c1e42326e8e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/3a5103178c7dfb33830ff902dcba15bbbc8e37bb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/f0d2cab86f410f2abfcc586c47c3c761d1789f7a",
+        "width": 64
+      }
+    ],
+    "name": "Paul Evans",
+    "popularity": 21,
+    "type": "artist",
+    "uri": "spotify:artist:1VCjlBPsXgs5YMMFDWw6nA"
+  }
+]
